@@ -13,3 +13,12 @@ fine tuned existing model using Tensorflow.
 
 ## Technical Aspect
 
+1. Used tensorflow for custom convolutional models and data augmentation
+2. Finetuned efficientnetb0.
+
+Finetuning upper 20 layers of efficientnetb0 yielded 93% of validation accuracy with only 80-300 training samples.
+
+## Futher improvements
+
+1. More images should be collected for each food class.
+2. More image classes can be added.
