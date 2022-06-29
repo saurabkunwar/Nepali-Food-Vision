@@ -18,7 +18,20 @@ fine tuned existing model using Tensorflow.
 
 Finetuning upper 20 layers of efficientnetb0 yielded 93% of validation accuracy with only 80-300 training samples.
 
+## Food Categories
+
+1. Chatamari
+2. Chhoila
+3. Dalbhat
+4. Dhindo
+5. Gundruk
+6. Kheer
+7. Momo
+8. Sekuwa
+9. Selroti
+
 ## Futher improvements
 
 1. More images should be collected for each food class.
 2. More image classes can be added.
+3. Web app with recepie of food
